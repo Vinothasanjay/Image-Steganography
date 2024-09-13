@@ -48,7 +48,7 @@ To use the application:
 2. Enter your message into the text area.
 3. Click "Hide Message" to embed the message in the image.
 4. To decode the message, open the image and click "Reveal Message."
-   ## Screenshot
+   ## GUI
    ![image](https://github.com/user-attachments/assets/4551ec44-dcbf-4634-b6be-dc58c02cdcca)
 
 ## Notes
